@@ -8,7 +8,7 @@ let nome, idade, peso, altura, vip, imc
 
 
 // ENTRADA DE DADOS
-nome = "Luis Gustavo"
+nome = "Samuel Higino"
 idade = 19
 peso = 86
 altura = 1.80
